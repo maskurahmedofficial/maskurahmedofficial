@@ -16,7 +16,7 @@
 - Love solving real-world problems with code
 - Always exploring new tech
 - Learning backend scaling & advanced deployment
-- Reach me: maskurahmed@gmail.com
+- Reach me: maskurahmed392@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
